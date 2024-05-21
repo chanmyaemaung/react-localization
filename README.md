@@ -1,0 +1,1 @@
+# React Localizations with i18next
